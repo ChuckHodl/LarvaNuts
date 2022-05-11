@@ -1,9 +1,9 @@
 import {useState } from "react";
 import { ethers, BigNumber } from "ethers";
 import { Box, Button, Flex, Input, Text } from "@chakra-ui/react";
-import roboPunksNFT from "./CryptoHatsNFT.json";
+import roboPunksNFT from "./LarvaNuts.json";
 
-const roboPunksNFTAddress = "0xd583719534C759368d7912fB751E5A666b8aee43";
+const roboPunksNFTAddress = "0x0Df70A4cba8B8B7B857ba9bd820C4330E2031baB";
 
 const MainMint = ({ accounts, setAccounts }) => {
     const [mintAmount, setMintAmount] = useState(1);
