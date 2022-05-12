@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LarvaNuts/static/css/main.200f850d.css",
+    "main.js": "/LarvaNuts/static/js/main.bacb312e.js",
+    "static/media/nuts-bg.gif": "/LarvaNuts/static/media/nuts-bg.4ea071dd73d391b67a1e.gif",
+    "index.html": "/LarvaNuts/index.html",
+    "main.200f850d.css.map": "/LarvaNuts/static/css/main.200f850d.css.map",
+    "main.bacb312e.js.map": "/LarvaNuts/static/js/main.bacb312e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200f850d.css",
+    "static/js/main.bacb312e.js"
+  ]
+}
