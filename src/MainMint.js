@@ -43,7 +43,7 @@ const MainMint = ({ accounts, setAccounts }) => {
         <Flex justify="center" align ="center" height="85vh" paddingBottom="600px">
             <Box width="650px">
                 <div>
-                    <Text fontSize="48px" textShadow="0 5px #000000">CryptoNuts</Text>
+                    <Text fontSize="48px" textShadow="0 5px #000000">LarvaNuts</Text>
                     <Text
                         fontSize="30px"
                         letterSpacing="-5.5%"
